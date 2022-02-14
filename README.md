@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaribelMendezM
-- 👀 I’m interested in ...
+- 👀 I’m interested to joining in Github Education.
 - 🌱 I’m currently participating in Launch X by Innovacción
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mariibellmendez@gmail.com or mariibellmendez@nube.unadmexico.mx
 
 <!---
 MaribelMendezM
